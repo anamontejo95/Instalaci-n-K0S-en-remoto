@@ -12,7 +12,7 @@
 
 5.[Instalacion](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/instalacion.md)
 
-6.[Comprobaciones]
+6.[Comprobaciones](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/comprobacion.md)
 
 7.Referencias  
 

@@ -8,7 +8,7 @@
 
 3.[Cloud](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/cloud.md)
 
-4.[PeparacionServidores]
+4.[PeparacionServidores](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/preparacion.md)
 
 5.[Instalacion](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/instalacion.md)
 

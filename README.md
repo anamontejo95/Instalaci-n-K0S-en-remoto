@@ -1,1 +1,3 @@
-# Instalacion-K0S-en-remoto
+# K0S-en-remoto
+
+## Proyecto de instalación de K0S en remoto.

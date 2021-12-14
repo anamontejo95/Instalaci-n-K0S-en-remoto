@@ -14,7 +14,8 @@
 
 6.[Comprobaciones]
 
-7.Referencias
+7.Referencias  
+
 https://k0sproject.io/  
 https://docs.k0sproject.io/v1.22.4+k0s.1/install/  
 https://www.youtube.com/watch?v=gmFSmzAWcig  

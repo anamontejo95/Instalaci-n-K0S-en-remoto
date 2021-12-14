@@ -12,3 +12,4 @@ Con el parámetro controler podemos indicar el número de nodos que queremos, en
 
 ## Inicio y estado  
 Ahora vamos a iniciar K0S y ver su estado. Para ello utilizamos los comandos K0S start y K0S status.  
+![a](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/imagenes/Captura3.PNG)  

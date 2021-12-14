@@ -17,3 +17,4 @@ Ahora vamos a iniciar K0S y ver su estado. Para ello utilizamos los comandos K0S
 
 ## Kubectl  
 Por último vamos a ver más información con kubectl que ya viene incluido en K0S, por lo que no tenemos que instalarlo, ya viene listo para ser usado.  
+![a](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/imagenes/Captura5.PNG)

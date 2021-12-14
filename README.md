@@ -8,7 +8,7 @@
 
 3.[Cloud](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/cloud.md)
 
-4.[PeparacionServidores](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/preparacion.md)
+4.[PeparacionServidor](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/preparacion.md)
 
 5.[Instalacion](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/instalacion.md)
 
@@ -19,6 +19,8 @@
 https://k0sproject.io/  
 https://docs.k0sproject.io/v1.22.4+k0s.1/install/  
 https://www.youtube.com/watch?v=gmFSmzAWcig  
+https://github.com/mftienda/K0s
 
-8.Licencia  
+8.Licencia    
+
 ![a](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/imagenes/licencia.png)

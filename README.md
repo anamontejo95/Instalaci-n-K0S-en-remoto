@@ -2,7 +2,7 @@
 
 ## Índice
 
-1.[Introducción] 
+1.[Introducción] (https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/archivos/Introduccion.md)
 
 2.[K0S]
 

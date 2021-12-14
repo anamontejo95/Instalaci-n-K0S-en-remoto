@@ -6,4 +6,4 @@ Vcores: 1
 RAM: 2GB  
 SSD: 5GB  
 
-![]()
+![](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/imagenes/caracteristicas-servidor.PNG)

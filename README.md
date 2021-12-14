@@ -21,3 +21,4 @@ https://docs.k0sproject.io/v1.22.4+k0s.1/install/
 https://www.youtube.com/watch?v=gmFSmzAWcig  
 
 8.Licencia  
+![a](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/imagenes/licencia.png)

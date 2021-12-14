@@ -1,6 +1,6 @@
 # K0S-en-remoto
 
-#Índice
+## Índice
 
 1.[Introducción] 
 

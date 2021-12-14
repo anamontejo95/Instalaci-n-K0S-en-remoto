@@ -10,3 +10,4 @@ Para usar este servidor remoto me conecto mediante ssh:
 
 Este es el aspecto que tiene nuestro servidor una vez nos hemos conectado a el.  
 
+![a](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/imagenes/servidor-clouding.PNG)

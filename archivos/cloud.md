@@ -6,7 +6,7 @@ Para este proyecto vamos a usar Clouding.io que es una plataforma que nos va a p
 
 Para usar este servidor remoto me conecto mediante ssh:  
 
-![a]()  
+![a](https://github.com/anamontejo95/Instalaci-n-K0S-en-remoto/blob/main/imagenes/conexion-ssh.PNG)  
 
 Este es el aspecto que tiene nuestro servidor una vez nos hemos conectado a el.  
 

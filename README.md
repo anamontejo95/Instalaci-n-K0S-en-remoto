@@ -1,1 +1,1 @@
-# Instalaci-n-K0S-en-remoto
+# Instalacion-K0S-en-remoto
